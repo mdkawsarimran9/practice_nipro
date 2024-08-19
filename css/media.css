@@ -1,0 +1,927 @@
+
+
+/* extra small  */
+@media (max-width: 575.98px){
+     /* header start  */
+header{
+    padding: 15px 0;
+}
+.l_logo h1{
+    font-size: 18px;
+}
+.logo .l_logo::before {
+    height: 36px;
+}
+.menu ul li a{
+    margin: 5px 0;
+}
+.search_input[data-bs-popper] {
+    top: 134%;
+}
+.search_input{
+    width: 320px;
+    margin: 0 0 0 -12px;
+}
+/* header end  */
+/* slider section start  */
+.c_slider{
+    padding: 50px 0;
+}
+.c_slider h2{
+    font-size: 27px;
+}
+.c_slider p{
+    margin: 10px 0;
+    padding-right: 30px;
+}
+.c_btn{
+    padding: 5px 10px 5px 10px;
+    font-size: 15px;
+}
+/* slider section end  */
+/* feature section start  */
+.second_line {
+    height: 25px;
+    margin: 0 auto;
+}
+.c_h3{
+    font-size: 18px;
+}
+.dummy .d_p{
+    margin-top: 20px;
+    padding: 0 10px;
+}
+.box_c_margin{
+    margin: 50px 0 0;
+}
+.box{
+    padding: 0 15px 20px;
+}
+.box .b_icon {
+    margin: -25px auto 0;
+    font-size: 50px;
+}
+.box .x_line{
+    margin: 15px auto;
+}
+.box .b_p{
+    margin: 0 0 10px;
+}
+.c_margin{
+    margin: 50px 0 70px;
+}
+.about_img1{
+    margin-bottom: 20px;
+}
+.about_text p{
+    margin: 15px 0;
+    line-height: 25px;
+}
+/* feature section end  */
+/* recent section start  */
+.c_padding{
+    padding: 50px 0;
+}
+.second_tog_bnt{
+    border: none;
+}
+.second_tog_bnt:focus{
+    box-shadow: none;
+}
+.sec_link{
+    width: 115px;
+    display: inline-block;
+}
+.sec_nav a{
+    margin: 0 6px;
+    padding: 3px;
+}
+/* recent section end  */
+/* choose section start  */
+.choose{
+    margin-bottom: 70px;
+}
+.content_box{
+    padding-bottom: 20px;
+}
+.ch_icon{
+    display: flex;
+    justify-content: center;
+}
+.ch_icon i{
+    font-size: 30px;
+}
+.ch_heading{
+    display: flex;
+    justify-content: center;
+}
+.ch_heading h4{
+    margin: 10px 0 0 10px;
+    font-size: 17px;
+}
+.para p{
+    margin-top: 20px;
+}
+/* choose section end  */
+/* work section start  */
+.work{
+    padding-bottom: 50px;
+}
+.bio {
+    padding: 10px 14px;
+}
+.c_typo{
+    font-size: 16px;
+}
+/* work section end  */
+/* pricing section start  */
+.pricing{
+    padding-bottom: 50px;
+}
+.single_price{
+    padding: 0px 20px 30px;
+}
+.line_height{
+    line-height: 35px;
+}
+.s_p_price{
+    font-size: 17px;
+}
+.s_p_btn{
+    margin-top: 25px;
+}
+
+/* pricing section end  */
+/* nipro bying start  */
+.nipro{
+    padding: 15px 0;
+}
+.html{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+}
+.html h5{
+    font-size: 15px;
+}
+.buying_btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+/* nipro bying end  */
+/* contact section start  */
+.contact{
+    margin-bottom: 50px;
+}
+.person_bio{
+    padding: 20px 20px;
+}
+.i_image{
+    top: 10px;
+    left: 10px;
+}
+.marginy{
+    margin: 10px 0;
+}
+.profesion{
+    font-size: 16px;
+}
+.contact_p{
+    margin-top: 20px;
+    line-height: 30px;
+}
+.buttons{
+    margin-top: 20px;
+    padding: 20px 0;
+}
+.slid_btn2{
+    display: flex;
+    justify-content: end;
+}
+.buttons{
+    width: 100%;
+    /* display: inline-block; */
+    margin-top: 20px;
+    padding: 20px 0;
+}
+.buttons button:first-child{
+    writing-mode: horizontal-tb;
+    top:50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.buttons button:last-child{
+    writing-mode: horizontal-tb;
+    bottom: 50%;
+    right: 0;
+    transform:translateY(50%);
+}
+.contact_field{
+    margin-top: 50px;
+    padding: 0 20px;
+}
+.contact_us{
+    top: -16px;
+    font-size: 18px;
+}
+.input_group{
+    margin-top: 30px;
+}
+.message{
+    padding: 0 0 30px !important;
+}
+.last_btn{
+    padding: 25px 0;
+}
+/* contact section end  */
+.footer_p{
+    margin: 10px 0;
+}
+.f_social_icon{
+    padding-bottom: 30px;
+}
+.f_social_icon a{
+    margin: 0 3px;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+.last_footer{
+    padding: 15px 0;
+}
+.copy_right{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer_menu{
+    margin: 15px 0 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer_menu ul{
+    line-height: 30px;
+}
+.footer_menu ul li a{
+    margin: 0 10px;
+}
+/* footer end  */
+}
+/* small  */
+@media (min-width: 576px) and (max-width: 767.98px){
+     /* header start  */
+header{
+    padding: 15px 0;
+}
+.l_logo h1{
+    font-size: 20px;
+}
+.menu ul li a{
+    margin: 5px 0;
+}
+.search_input[data-bs-popper] {
+    top: 134%;
+}
+.search_input{
+    width: 576px;
+    margin: 0 0 0 -30px;
+}
+/* header end  */
+/* slider section start  */
+.c_slider{
+    padding: 50px 0;
+}
+.c_slider h2{
+    font-size: 30px;
+}
+.c_slider p{
+    margin: 10px 0;
+    padding-right: 155px;
+}
+.c_btn{
+    padding: 5px 10px 5px 10px;
+    font-size: 15px;
+}
+/* slider section end  */
+/* feature section start  */
+.second_line {
+    height: 30px;
+    margin: 0 auto;
+}
+.c_h3{
+    font-size: 20px;
+}
+.dummy .d_p{
+    margin-top: 20px;
+}
+.box_c_margin{
+    margin: 50px 0 0;
+}
+.box .x_line{
+    margin: 15px auto;
+}
+.box .b_p{
+    margin: 0 0 30px;
+}
+.c_margin{
+    margin: 50px 0 70px;
+}
+.about_img1{
+    margin-bottom: 20px;
+}
+.about_text p{
+    margin: 15px 0;
+    line-height: 25px;
+}
+/* feature section end  */
+/* recent section start  */
+.c_padding{
+    padding: 50px 0;
+}
+.second_tog_bnt{
+    border: none;
+}
+.sec_link{
+    width: 115px;
+    display: inline-block;
+}
+.sec_nav a{
+    margin: 0 15px;
+    padding: 5px;
+}
+/* recent section end  */
+/* choose section start  */
+.choose{
+    margin-bottom: 70px;
+}
+.content_box{
+    padding-bottom: 20px;
+}
+
+.ch_icon i{
+    font-size: 45px;
+}
+.ch_heading h4{
+    margin: 10px 0 0 10px;
+}
+.para p{
+    margin-top: 20px;
+}
+/* choose section end  */
+/* work section start  */
+.work{
+    padding-bottom: 50px;
+}
+.bio {
+    padding: 10px 14px;
+}
+.c_typo{
+    font-size: 16px;
+}
+/* work section end  */
+/* pricing section start  */
+.pricing{
+    padding-bottom: 50px;
+}
+.single_price{
+    padding: 0px 20px 30px;
+}
+.line_height{
+    line-height: 35px;
+}
+.s_p_btn{
+    margin-top: 25px;
+}
+
+/* pricing section end  */
+/* nipro bying start  */
+.nipro{
+    padding: 15px 0;
+}
+.html{
+    padding: 5px 0;
+}
+.html h5{
+    font-size: 16px;
+}
+/* nipro bying end  */
+/* contact section start  */
+.contact{
+    margin-bottom: 50px;
+}
+.person_bio{
+    padding: 20px 20px;
+}
+.i_image{
+    top: 10px;
+    left: 10px;
+}
+.marginy{
+    margin: 10px 0;
+}
+.profesion{
+    font-size: 16px;
+}
+.contact_p{
+    margin-top: 20px;
+    line-height: 30px;
+}
+.buttons{
+    margin-top: 30px;
+}
+.slid_btn2{
+    display: flex;
+    justify-content: end;
+}
+.buttons{
+    width: 100%;
+    /* display: inline-block; */
+    margin-top: 20px;
+    padding: 20px 0;
+}
+.buttons button:first-child{
+    writing-mode: horizontal-tb;
+    top:50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.buttons button:last-child{
+    writing-mode: horizontal-tb;
+    bottom: 50%;
+    right: 0;
+    transform:translateY(50%);
+}
+.contact_field{
+    margin-top: 50px;
+    padding: 0 30px;
+}
+.contact_us{
+    top: -16px;
+    font-size: 20px;
+}
+.input_group{
+    margin-top: 30px;
+}
+.message{
+    padding: 0 0 30px !important;
+}
+.last_btn{
+    padding: 25px 0;
+}
+/* contact section end  */
+.footer_p{
+    margin: 20px 0;
+}
+.f_social_icon{
+    padding-bottom: 50px;
+}
+.f_social_icon a{
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+.last_footer{
+    padding: 20px 0;
+}
+.copy_right{
+    display: flex;
+    justify-content: center;
+}
+.footer_menu{
+    margin: 15px 0 0;
+    display: flex;
+    justify-content: center;
+}
+.footer_menu ul li a{
+    margin: 0 10px;
+}
+/* footer end  */
+}
+/* medium */
+@media (min-width: 768px) and (max-width: 991.98px){
+    /* header start  */
+header{
+    padding: 20px 0;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.l_logo h1{
+    font-size: 25px;
+}
+.menu ul li a{
+    margin: 7px 0;
+}
+.search_input[data-bs-popper] {
+    top: 148%;
+}
+.search_input{
+    width: 300px;
+    margin: 0 0 0 -38px;
+}
+/* header end  */
+/* slider section start  */
+.c_slider{
+    padding: 80px 0;
+}
+.c_slider h2{
+    font-size: 40px;
+}
+.c_slider p{
+    margin: 20px 0;
+    padding-right: 234px;
+}
+.c_btn{
+    padding: 6px 15px 6px 15px;
+    font-size: 15px;
+}
+/* slider section end  */
+/* feature section start  */
+.second_line{
+    height: 30px;
+    margin: 0 auto 5px;
+}
+.c_h3{
+    font-size: 25px;
+}
+.dummy .d_p{
+    margin-top: 25px;
+}
+.box_c_margin{
+    margin: 70px 0 0;
+}
+.box .x_line{
+    margin: 15px auto;
+}
+.box .b_p{
+    margin: 0 0 30px;
+}
+.c_margin{
+    margin: 80px 0 80px;
+}
+.about_text p{
+    margin: 15px 0;
+    line-height: 25px;
+}
+/* feature section end  */
+/* recent section start  */
+.c_padding{
+    padding: 70px 0;
+}
+.second_tog_bnt{
+    border: none;
+}
+.second_tog_bnt:focus{
+    box-shadow: none;
+}
+.sec_link{
+    width: 115px;
+    display: inline-block;
+}
+.sec_nav a{
+    margin: 0 15px;
+    padding: 5px;
+}
+/* recent section end  */
+/* choose section start  */
+.choose{
+    margin-bottom: 70px;
+}
+.content_box{
+    padding-bottom: 20px;
+}
+
+.ch_icon i{
+    font-size: 45px;
+}
+.ch_heading h4{
+    margin: 10px 0 0 10px;
+}
+.para p{
+    margin-top: 20px;
+}
+/* choose section end  */
+/* work section start  */
+.work{
+    padding-bottom: 70px;
+}
+/* work section end  */
+/* pricing section start  */
+.pricing{
+    padding-bottom: 70px;
+}
+.single_price{
+    padding: 30px 50px 40px;
+}
+.line_height{
+    line-height: 35px;
+}
+.s_p_btn{
+    margin-top: 30px;
+}
+
+/* pricing section end  */
+/* nipro bying start  */
+.nipro{
+    padding: 20px 0;
+    background-color:#f0f0f0;
+}
+.html{
+    padding: 11px 0;
+}
+.html h5{
+    font-size: 16px;
+}
+/* nipro bying end  */
+/* contact section start  */
+.person_bio{
+    padding: 20px 20px;
+}
+.i_image{
+    top: 10px;
+    left: 10px;
+}
+.marginy{
+    margin: 10px 0;
+}
+.profesion{
+    font-size: 16px;
+}
+.contact_p{
+    margin-top: 20px;
+    line-height: 30px;
+}
+.buttons{
+    width: 100%;
+    /* display: inline-block; */
+    margin-top: 20px;
+    padding: 20px 0;
+}
+.slid_btn2{
+    display: flex;
+    justify-content: end;
+}
+.buttons{
+    width: 100%;
+    /* display: inline-block; */
+    margin-top: 20px;
+    padding: 20px 0;
+}
+.buttons button:first-child{
+    writing-mode: horizontal-tb;
+    top:50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.buttons button:last-child{
+    writing-mode: horizontal-tb;
+    bottom: 50%;
+    right: 0;
+    transform:translateY(50%);
+}
+.contact_field{
+    margin-top: 70px;
+    padding: 0 50px;
+}
+.contact_us{
+    top: -20px;
+    font-size: 25px;
+}
+.input_group{
+    margin-top: 30px;
+}
+.message{
+    padding: 0 0 30px !important;
+}
+.last_btn{
+    padding: 30px 0;
+}
+/* contact section end  */
+.footer_p{
+    margin: 25px 0;
+}
+.f_social_icon{
+    padding-bottom: 70px;
+}
+.f_social_icon a{
+    margin: 0 5px;
+    width: 35px;
+    height: 35px;
+    font-size: 22px;
+}
+.last_footer{
+    padding: 20px 0;
+    border-top: 1px solid var(--ash);
+}
+.copy_right{
+    display: flex;
+    justify-content: center;
+}
+.footer_menu{
+    margin: 15px 0 0;
+    display: flex;
+    justify-content: center;
+}
+.footer_menu ul li a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+}
+.footer_menu ul li:last-child a{
+    margin-right: 0;
+}
+.footer_menu ul li a:hover{
+    text-decoration: underline;
+}
+/* footer end  */
+}
+/* large  */
+@media (min-width: 992px) and (max-width: 1199.98px){
+    /* header start  */
+.menu ul li a{
+    margin: 0 25px;
+}
+/* header end  */
+/* slider section start  */
+.c_slider{
+    padding: 150px 0;
+}
+.c_slider h2{
+    font-size: 50px;
+}
+.c_slider p{
+    margin: 40px 0;
+}
+.c_btn{
+    padding: 8px 20px 8px 20px;
+}
+.c_btn span{
+    margin-left: 8px;
+}
+/* slider section end  */
+/* feature section start  */
+.second_line{
+    height: 45px;
+}
+.c_h3{
+    font-size: 27px;
+}
+.box .b_p{
+    margin: 0 0 30px;
+    line-height: 27px;
+}
+.about_text p{
+    margin: 25px 0;
+    line-height: 25px;
+}
+/* feature section end  */
+/* recent section start  */
+.sec_nav a{
+    margin: 0;
+    padding: 8px;
+}
+.c_typo {
+    font-size: 16px;
+}
+/* recent section end  */
+/* choose section start  */
+.choose{
+    margin-bottom: 100px;
+}
+.content_box{
+    padding-bottom: 30px;
+    position: relative;
+    border-bottom: 1px solid var(--ash);
+}
+
+.content_box:hover{
+    border-bottom: 1px solid var(--black);
+}
+.ch_icon i{
+    font-size: 48px;
+}
+.content_box:hover .ch_icon i{
+    color: var(--black);
+}
+.ch_heading h4{
+    margin-top: 10px;
+    font-family: var(--lato);
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.content_box:hover .ch_heading h4{
+    color: var(--black);
+}
+.para p{
+    margin-top: 30px;
+}
+/* choose section end  */
+/* work section start  */
+
+.bio{
+    padding: 10px 10px;
+}
+.links{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 26px;
+    color: var(--ash);
+    background-color: #fff;
+    border-inline-end: 1px solid transparent;
+}
+/* work section end  */
+/* pricing section start  */
+
+.single_price{
+    padding: 20px 20px 35px;
+}
+
+/* pricing section end  */
+/* nipro bying start  */
+
+/* nipro bying end  */
+/* contact section start  */
+.person_bio{
+    padding: 35px 25px;
+}
+.marginy{
+    margin: 10px 0;
+}
+.contact_p{
+    margin-top: 15px;
+    line-height: 25px;
+}
+.buttons{
+    padding: 6px 0;
+}
+.contact_field{
+    padding: 0 100px;
+}
+.contact_us{
+    top: -20px;
+    font-size: 25px;
+}
+
+/* contact section end  */
+/* footer start  */
+
+.footer_p{
+    margin: 25px 0;
+}
+.f_social_icon{
+    padding-bottom: 100px;
+}
+.f_social_icon a{
+    width: 35px;
+    height: 35px;
+}
+.f_social_icon a:hover{
+    background-color: #fff;
+    color: var(--black);
+}
+.last_footer{
+    padding: 30px 0;
+    border-top: 1px solid var(--ash);
+}
+.copy_right p{
+    color: #fff;
+}
+.footer_menu ul li a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+}
+.footer_menu ul li:last-child a{
+    margin-right: 0;
+}
+.footer_menu ul li a:hover{
+    text-decoration: underline;
+}
+/* footer end  */
+}
+/* extra large  */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    .bio {
+        padding: 10px 20px;
+        background-color: #fff;
+    }
+    .sec_btn_group{
+        padding: 0 10px;
+    }
+    /* .buttons {
+        padding: 40px 0;
+    } */
+}
+/* extra extra large  */
+@media (min-width: 1400px){
+    
+}
